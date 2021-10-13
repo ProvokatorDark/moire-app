@@ -1,5 +1,5 @@
-module.exports={
-    publicPath:'/vue-moire/',
+module.exports = {
+  publicPath: '/moire-app/',
   // pages: {
   //   index: {
   //     // точка входа для страницы
@@ -21,4 +21,4 @@ module.exports={
   //   // Выходное имя файла будет определено как `subpage.html`.
   //   subpage: 'src/subpage/main.js'
   // }
-}
+};
